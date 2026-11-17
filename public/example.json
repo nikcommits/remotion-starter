@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Hallo,",
+    "startMs": 40,
+    "endMs": 620
+  },
+  {
+    "text": "dies",
+    "startMs": 620,
+    "endMs": 770
+  },
+  {
+    "text": "ist",
+    "startMs": 770,
+    "endMs": 980
+  },
+  {
+    "text": "ein",
+    "startMs": 980,
+    "endMs": 1190
+  },
+  {
+    "text": "kurzes",
+    "startMs": 1190,
+    "endMs": 1730
+  },
+  {
+    "text": "Beispiel",
+    "startMs": 1730,
+    "endMs": 2170
+  },
+  {
+    "text": "für",
+    "startMs": 2170,
+    "endMs": 2520
+  },
+  {
+    "text": "deinen",
+    "startMs": 2520,
+    "endMs": 2870
+  },
+  {
+    "text": "neuen",
+    "startMs": 2870,
+    "endMs": 3220
+  },
+  {
+    "text": "Video-Short.",
+    "startMs": 3220,
+    "endMs": 4080
+  }
+]

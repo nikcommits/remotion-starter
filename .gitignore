@@ -1,0 +1,7 @@
+node_modules/
+.runtime/
+.work/
+public/jobs/
+public/wisam-arial-bold.ttf
+out/
+.DS_Store
